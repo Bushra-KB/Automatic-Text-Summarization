@@ -47,7 +47,6 @@ B. Combining Statistical and Machine Learning Methods
 C. Combining Graph-based and Machine Learning Methods
 
 V. Other Approaches
-
 A. Lexical Chain Approach
 B. Genetic Algorithm Approach
 C. Sentence Compression Approach
